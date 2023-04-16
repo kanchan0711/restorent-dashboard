@@ -4,7 +4,7 @@ import Container from './Component/Container'
 const App = () => {
   return (
    
-     <div className='flex justify-content'>
+     <div className='flex  items-center justify-content'>
       <Container />
       </div>
     

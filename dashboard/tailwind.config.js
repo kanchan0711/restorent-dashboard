@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       flexBasis:{
-        20: '20%',
-      80: '80%'      }
+        20: '30%',
+      80: '70%'      }
     },
     height: {
       '90': '90%'

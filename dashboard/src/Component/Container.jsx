@@ -5,7 +5,7 @@ import Body from './Body/body'
 
 const Container = () => {
   return (
-    <div className='flex h-[90vh] item-center w-[85vw] my-10 rounded-x1 overflow-hidden '>
+    <div className='flex h-[100vh]   w-[85vw]  rounded-x1 overflow-hidden '>
       <SideMenu />
      <Body/>
     </div>
